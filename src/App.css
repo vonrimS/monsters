@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+  justify-content: center;
+}
+
+.app-header {
+  font-family: 'Bangers', cursive;
+  font-size: 80px;
+  text-shadow: 2px 2px #501919;
+  color: rgb(85, 85, 194);
+  /* background: linear-gradient(180deg, #E2ED63 0%, #ED6363 38.54%, #7F1588 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text; */
+  /* text-shadow: 4px 4px 0px rgba(0, 0, 0, 0.7); */
+}

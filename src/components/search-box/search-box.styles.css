@@ -1,0 +1,15 @@
+.search {
+    -webkit-appearance: none;
+    /* border: none; */
+    border: 1px solid grey;
+    outline: none;
+    padding: 10px;
+    width: 250px;
+    text-align: center;
+    font-size: 15px;
+    line-height: 30px;
+    margin-bottom: 30px;
+    border-radius: 5px;
+    background-color: rgba(183, 77, 94, 0.326);
+    color: black;
+}
